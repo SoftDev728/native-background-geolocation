@@ -64,3 +64,5 @@ xcuserdata
 .swiftpm/
 android/.idea
 **/.idea/
+config.bat
+node_modules
